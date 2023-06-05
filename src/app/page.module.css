@@ -37,6 +37,8 @@
 .code {
   font-weight: 700;
   font-family: var(--font-mono);
+  background: #fdbb2d;
+  color: #59595a;
 }
 
 .grid {
